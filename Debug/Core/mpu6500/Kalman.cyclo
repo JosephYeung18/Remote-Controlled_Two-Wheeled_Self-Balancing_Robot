@@ -1,0 +1,10 @@
+../Core/mpu6500/Kalman.c:13:6:Kalman_init	1
+../Core/mpu6500/Kalman.c:29:7:Kalman_Calculate	1
+../Core/mpu6500/Kalman.c:74:6:setMeasure	1
+../Core/mpu6500/Kalman.c:78:7:getRate	1
+../Core/mpu6500/Kalman.c:85:6:setQmeasure	1
+../Core/mpu6500/Kalman.c:89:6:setQbias	1
+../Core/mpu6500/Kalman.c:93:6:setRmeasure	1
+../Core/mpu6500/Kalman.c:98:7:getQmeasure	1
+../Core/mpu6500/Kalman.c:102:7:getQbias	1
+../Core/mpu6500/Kalman.c:106:7:getRmeasure	1

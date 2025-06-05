@@ -1,0 +1,10 @@
+../Core/mpu6500/IIC.c:33:13:IIC_Delay	2
+../Core/mpu6500/IIC.c:57:6:IIC_Start	1
+../Core/mpu6500/IIC.c:76:6:IIC_Stop	1
+../Core/mpu6500/IIC.c:93:6:IIC_Send_Byte	4
+../Core/mpu6500/IIC.c:129:9:IIC_Read_Byte	4
+../Core/mpu6500/IIC.c:163:9:IIC_Wait_Ack	2
+../Core/mpu6500/IIC.c:192:6:IIC_Ack	1
+../Core/mpu6500/IIC.c:211:6:IIC_NAck	1
+../Core/mpu6500/IIC.c:229:6:IIC_GPIO_Init	1
+../Core/mpu6500/IIC.c:252:9:IIC_CheckDevice	1

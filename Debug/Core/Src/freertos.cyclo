@@ -1,0 +1,4 @@
+../Core/Src/freertos.c:117:6:MX_FREERTOS_Init	1
+../Core/Src/freertos.c:165:6:StartDefaultTask	3
+../Core/Src/freertos.c:197:6:StartTaskOled	1
+../Core/Src/freertos.c:231:6:StartTaskCtrl	2
