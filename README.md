@@ -136,8 +136,8 @@ OLED显示屏实时显示：
 5. 通过OLED显示屏查看实时状态
 
 ## 📹 功能演示
-![image](./images/your-image.png)
 
+![图](IMG_2643.JPG)
 ## 📄 项目文档
 
 
